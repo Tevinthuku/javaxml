@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Class>
+	<Name>First</Name>
+	<Sections>
+		<Section>
+			<Name>A</Name>
+			<Students>
+				<Student>Rohan</Student>
+				<Student>Tevin</Student>
+				<Student>Trevor</Student>
+			</Students>
+		</Section>
+		
+		<Section>
+			<Name>B</Name>
+			<Students>
+				<Student>Kamau</Student>
+				<Student>Gachagua</Student>
+				<Student>Ignecious</Student>
+			</Students>
+		</Section>
+	</Sections>
+</Class>
